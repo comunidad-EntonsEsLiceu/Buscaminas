@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 15/11/2016
+/buscaminas.png
+/fotoamigos.jpg
+/mina.jpg
+/videoamigos.pm4
+
+
+NETWORK
+*
+
+FALLBACK
+/html/ /offline.html
